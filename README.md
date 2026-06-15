@@ -1,4 +1,4 @@
-# 🏥 Breast Cancer Detection & Segmentation
+# 🏥Breast Cancer AI Deployment System (Classification & Segmentation)
 
 A comprehensive deep learning pipeline for breast cancer analysis combining **classification**, **segmentation**, and a **production-ready Streamlit web application**. This project benchmarks state-of-the-art neural networks on medical imaging data with both research training pipelines and an interactive inference interface.
 
